@@ -3,7 +3,7 @@
 }
 
 body {
-  background: #CCC url();
+  background: #CCC url(https://www.bungie.net/img/theme/destiny/bgs/gradient_green.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -77,7 +77,7 @@ body .cursor.focus .spinner {
 }
 
 body .character {
-  background: url(http://3.bp.blogspot.com/_2sKYQ1R6pjc/TEVvJ-08tCI/AAAAAAAAANI/oAfhWhLSaCI/s1600/Samurai-Mitsuhide.pngg) center center no-repeat;
+  background: url(http://104.236.129.44/destiny-menu/assets/images/character.png) center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -87,7 +87,7 @@ body .character {
   margin: 350px 0px 0px 60px;
   position: absolute;
   top: calc(50% - 428px);
-  width: 996px;
+  width: 306px;
   z-index: 1;
 }
 
