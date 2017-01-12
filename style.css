@@ -82,7 +82,7 @@ body .character {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 856px;
+  height: 356px;
   left: calc(50% - 153px);
   margin: 350px 0px 0px 60px;
   position: absolute;
@@ -98,7 +98,7 @@ body .character:before {
   height: 78px;
   position: absolute;
   left: calc(50% - 315px);
-  width: 630px;
+  width: 280px;
 }
 
 body .lines {
