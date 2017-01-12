@@ -82,11 +82,11 @@ body .character {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 356px;
-  left: calc(50% - 153px);
+  height: 509px;
+  left: calc(50% - 293px);
   margin: 350px 0px 0px 60px;
   position: absolute;
-  top: calc(50% - 428px);
+  top: calc(50% - 8px);
   width: 306px;
   z-index: 1;
 }
